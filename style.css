@@ -64,61 +64,6 @@
 }
 
 
-.box {
-    width: 803px;
-    height: 500px;
-    /* background-color: aquamarine; */
-  }
-  
-  .box .vector {
-    position: fixed;
-    width: 803px;
-    height: 500px;
-    top: 1140px;
-    left: 360px;
-    object-fit: cover;
-    /* background-color: aqua; */
-    background-image: url(New\ Year\ Photo.png);
-  }
-
-  .label {
-    width: 383px;
-    height: 107px;
-  }
-  
-  .label .text-wrapper {
-    position: fixed;
-    top: 700px;
-    left: 600px;
-    font-family: "Inter-Bold", Helvetica;
-    font-weight: 700;
-    color: #ff0000;
-    font-size: 88px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-  }
-  
-
-  .text-wrapper2 {
-    position: fixed;
-    top: 900px;
-    left: 620px;
-    font-weight: 500;
-    color: #ff0000;
-    font-size: 18px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
-    border: none;
-  }
-
-
-  
-
-
-
-
 
 
 
