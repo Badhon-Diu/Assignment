@@ -1,0 +1,64 @@
+ .first {
+    position: absolute;
+    width: 1320px;
+    height: 600px;
+    top: 50px;
+    left: 140px;
+    background-image: url(Banner\ Image.png);
+    background-size: 100% 100%;
+}
+.group {
+    height: 600px;
+    background-image: url(rectangle-15.png);
+    background-size: 100% 100%;
+}
+
+.group-1{
+    position: relative;
+    width: 632px;
+    height: 246px;
+    top: 177px;
+    left: 344px;
+}
+.group-2 {
+    height: 246px;
+}
+
+.group-3 {
+    position: relative;
+    width: 636px;
+    height: 246px;
+}
+
+.text1 {
+    position: absolute;
+    top: 0;
+    left: 186px;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+
+}
+
+.text2 {
+    position: absolute;
+    width: 632px;
+    top: 56px;
+    left: 0;
+    font-family: "Merriweather", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 72px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 95px;
+}
+.group-6 {
+    position: relative;
+    width: 636px;
+    height: 246px;
+}
